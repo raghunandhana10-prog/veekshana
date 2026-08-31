@@ -1,0 +1,11 @@
+p{
+    color:white;
+    text-align: center;
+    background-color: blue;
+    background: linear-gradient();
+    width: 500px;
+    height: 20px;
+}
+button {
+    color: green;
+}
